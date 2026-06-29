@@ -3,7 +3,6 @@
   "short_name": "AXYS",
   "description": "Cockpit financeiro pessoal. Atrito zero.",
   "start_url": "/index.html/",
-  "scope": "/AXYS-Finance/",
   "display": "standalone",
   "background_color": "#05070D",
   "theme_color": "#05070D",
